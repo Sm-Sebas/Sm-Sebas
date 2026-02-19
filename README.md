@@ -42,6 +42,20 @@ Estoy buscando mi primera oportunidad como **Junior o Becario** para:
 
 ---
 
+---
+
+###  Mis Estadísticas de GitHub
+<p align="center">
+  <a href="https://github.com/sm-sebas" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sm-sebas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de sm-sebas" />
+  </a>
+  <a href="https://github.com/sm-sebas" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-sebas&layout=compact&theme=tokyonight&hide=php,sql" alt="Lenguajes más usados" />
+  </a>
+</p>
+
+> **Nota:** Si las estadísticas no cargan de inmediato, es un problema temporal del servidor de GitHub. ¡No te preocupes, suelen aparecer al recargar!
+
 ### 📫 Conecta conmigo
 <p align="left">
 <a href="https://linkedin.com/in/sebastián-sánchez-martínez-178b31349" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
