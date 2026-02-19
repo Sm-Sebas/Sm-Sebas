@@ -10,12 +10,12 @@
   </a>
 </p>
 
-###  Sobre mí
+### Sobre mí
 Soy **Desarrollador de Aplicaciones Web** con formación sólida tanto en **Front-end** como en **Back-end**. Me apasiona crear soluciones funcionales y atractivas, combinando un diseño intuitivo con tecnología eficiente para aportar valor real en cada proyecto.
 
 ---
 
-###  Habilidades y Tecnologías
+### Habilidades y Tecnologías
 
 | **Área** | **Tecnologías** |
 |-------------------|-----------------|
@@ -26,7 +26,7 @@ Soy **Desarrollador de Aplicaciones Web** con formación sólida tanto en **Fron
 
 ---
 
-###  Fortalezas Personales
+### Fortalezas Personales
 *  **Atención al detalle** en la interfaz y el código.
 *  **Resolución de problemas** complejos de lógica.
 *  **Capacidad de aprendizaje** constante y proactividad.
@@ -34,7 +34,7 @@ Soy **Desarrollador de Aplicaciones Web** con formación sólida tanto en **Fron
 
 ---
 
-###  Actualmente...
+### Actualmente...
 Estoy buscando mi primera oportunidad como **Junior o Becario** para:
 *  Participar en proyectos reales y aportar valor desde el primer día.
 *  Seguir aprendiendo nuevas tecnologías y metodologías.
@@ -42,11 +42,9 @@ Estoy buscando mi primera oportunidad como **Junior o Becario** para:
 
 ---
 
-
-
 ### 📫 Conecta conmigo
 <p align="left">
-<a href="https://linkedin.com/in/sebastian-sanchez-martinez" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sanchez.sebasmartinez@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sebastián-sánchez-martínez-178b31349" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sanchez.sebasmartinez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
