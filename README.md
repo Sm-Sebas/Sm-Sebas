@@ -40,17 +40,6 @@ Estoy buscando mi primera oportunidad como **Junior o Becario** para:
 *  Seguir aprendiendo nuevas tecnologías y metodologías.
 *  Crecer profesionalmente dentro de un equipo dinámico.
 
----
-
-### 📈 Actividad en GitHub
-<p align="center">
-  <a href="https://github.com/sm-sebas" target="_blank">
-    <img height="170" src="https://github-readme-stats-git-masterhst-p-jays-projects.vercel.app/api?username=sm-sebas&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas sm-sebas" />
-  </a>
-  <a href="https://github.com/sm-sebas" target="_blank">
-    <img height="170" src="https://github-readme-stats-git-masterhst-p-jays-projects.vercel.app/api/top-langs/?username=sm-sebas&layout=compact&theme=tokyonight" alt="Lenguajes sm-sebas" />
-  </a>
-</p>
 
 ---
 
